@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">App Tem de Tudo</string>
+    <string name="btnCadastro">Cadastro</string>
+    <string name="appTitulo">Cadastre o seu nome:</string>
+    <string name="btnEnviar">Enviar</string>
+    <string name="btnVoltar">Voltar</string>
+    <string name="appTitulo2">Seja Bem Vindo!</string>
+    <string name="appTitulo3">Cadastro concluído</string>
+</resources>
