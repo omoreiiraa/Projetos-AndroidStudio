@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">App Lanche Facil</string>
+    <string name="btnPedido">Fazer Pedido</string>
+    <string name="btnConfirmar">Confirmar Pedido</string>
+    <string name="btnVoltar">Finalizar</string>
+    <string name="appTitulo">Escolha o seu Lanche:</string>
+    <string name="cbXburger">X-Burguer</string>
+    <string name="cbXbacon">X-Bacon</string>
+    <string name="cbBatataFrita">Batata Frita</string>
+    <string name="cbNugget">Nugget</string>
+    <string name="cbHotDog">Hot Dog</string>
+    <string name="editTextNome">Digite o seu Nome: </string>
+</resources>
